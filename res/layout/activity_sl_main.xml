@@ -47,10 +47,11 @@
         android:layout_width="match_parent"
         android:layout_height="100px"
         android:layout_below="@+id/editText2"
-        android:background="@drawable/buttonround"
+        android:background="#008080"
         android:text="Skrá inn"
         android:textColor="#FFFFFF"
-        android:ems="5" />
+        android:ems="5"
+        android:layout_marginTop="24dp" />
       
     
 </RelativeLayout>
